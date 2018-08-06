@@ -1,37 +1,13 @@
 # 品优购大型电商项目
 
-#### 项目介绍
-品优购大型电商项目源码
+来自黑马程序员的品优购电商项目，技术选型如下：
 
-#### 软件架构
-软件架构说明
+![技术选型](../../notes/%E7%94%B5%E5%95%86%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/README.assets/%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B.jpg)
 
+网站架构如下：
 
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+![1532138582676](../../notes/%E7%94%B5%E5%95%86%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/README.assets/1532138582676.png)
 
 
-#### 码云特技
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [http://git.mydoc.io/](http://git.mydoc.io/)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+后期学习完成在此基础上会做一下功能的更新。
